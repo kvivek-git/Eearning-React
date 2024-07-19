@@ -30,7 +30,7 @@ export default function Home() {
                 </div>
 
                 <div className="absolute inset-0 w-full sm:my-20 sm:pt-1 pt-12 h-full ">
-                    <img className="w-96" src="https://i.ibb.co/5BCcDYB/Remote2.png" alt="image1" />
+                    <img className="w-96" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Fn4tU8EwVOb_k7wd12VTAHtQi5m7XEKQOg&s" alt="image1" />
                 </div>
             </aside>
 
